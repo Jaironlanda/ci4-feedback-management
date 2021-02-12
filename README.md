@@ -8,6 +8,11 @@ Basic feedback system develop using great framework.
 
 - Write/send Feedback - `http://localhost:8080/feedback`
 
+### Dashboard login info
+
+- Email: `admin@jaironlanda.com`
+- Password: `admin`
+
 ### Admin side
 
 - Login - `http://localhost:8080/login`
