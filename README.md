@@ -33,11 +33,14 @@ and any database settings.
 
 ### Database settings
 
+Please replace `YOURDBUSERNAME` and `YOURDBPASSWORD` based on your database server settings
+```
 database.default.hostname = localhost
 database.default.database = feedbackSys
 database.default.username = YOURDBUSERNAME
 database.default.password = YOURDBPASSWORD
 database.default.DBDriver = MySQLi
+```
 
 ### SQL file
 
