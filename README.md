@@ -1,4 +1,4 @@
-# Feedback System - CodeIgniter 4 (Version 4.1.1)
+# Feedback System - CodeIgniter 4 (Version 4.1.4)
 
 Basic feedback system develop using great framework.
 
@@ -17,14 +17,14 @@ Basic feedback system develop using great framework.
 
 - Login - `http://localhost:8080/login`
 - Dashboard - `http://localhost:8080/dashboard`
-    - Total feedback
-    - List feedback
+  - Total feedback
+  - List feedback
 - View feedback detail - `http://localhost:8080/dashboard/view/{feedback_id}`
 - Delete feedback - `http://localhost:8080/dashboard/delete/{feedback_id}`
 
 ## Installation & updates
 
-`composer update` 
+`composer update`
 whenever there is a new release of the framework.
 
 When updating, check the release notes to see if there are any changes you might need to apply
@@ -39,6 +39,7 @@ and any database settings.
 ### Database settings
 
 Please replace `YOURDBUSERNAME` and `YOURDBPASSWORD` based on your database server settings
+
 ```
 database.default.hostname = localhost
 database.default.database = feedbackSys
